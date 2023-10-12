@@ -64,9 +64,6 @@
                 </executions>
                 <configuration>
                     <packageName>br.com.correios</packageName>
-                    <wsdlUrls>
-                        <wsdlUrl>https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl</wsdlUrl>
-                    </wsdlUrls>
                 </configuration>
             </plugin>
         </plugins>
